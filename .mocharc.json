@@ -1,0 +1,8 @@
+{
+  "extension": ["ts"],
+  "require": "ts-node/register",
+  "reporter": "allure-mocha",
+  "spec": "src/tests/*.test.ts",
+  "timeout": 0,
+  "parallel": false
+}
